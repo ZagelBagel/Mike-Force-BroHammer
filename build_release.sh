@@ -19,7 +19,7 @@ mkdir -p \
 
 cd "${RELEASE_DIR_PATH}/"
 
-git clone https://github.com/Bro-Nation/Paradigm "${PARADIGM_BUILD_DIR_PATH}/"
+git clone https://github.com/ZagelBagel/Paradigm-BroHammer "${PARADIGM_BUILD_DIR_PATH}/"
 
 cp -rf "${PARADIGM_BUILD_DIR_PATH}/" "${SCRIPTS_BUILD_DIR_PATH}/"
 
